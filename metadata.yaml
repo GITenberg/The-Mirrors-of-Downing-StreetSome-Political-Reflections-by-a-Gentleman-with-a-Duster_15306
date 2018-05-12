@@ -1,0 +1,32 @@
+_repo: The-Mirrors-of-Downing-StreetSome-Political-Reflections-by-a-Gentleman-with-a-Duster_15306
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Begbie, Harold
+    alias: Begbie, Edward Harold
+    birthdate: 1871
+    deathdate: 1929
+    gutenberg_agent_id: '5055'
+    url: http://www.gutenberg.org/2009/agents/5055
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Harold_Begbie
+description: ''
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2005-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15306'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Great Britain -- Politics and government -- 1910-1936'
+- !lcsh 'Statesmen -- Great Britain'
+title: 'The Mirrors of Downing Street
+
+  Some Political Reflections by a Gentleman with a Duster'
+url: http://www.gutenberg.org/ebooks/15306

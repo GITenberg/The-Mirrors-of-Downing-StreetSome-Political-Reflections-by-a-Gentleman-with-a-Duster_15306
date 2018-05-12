@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5055
     wikipedia: http://en.wikipedia.org/wiki/Edward_Harold_Begbie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15306#The-Mirrors-of-Downing-StreetSome-Political-Reflections-by-a-Gentleman-with-a-Duster
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2005-03-09'
 gutenberg_type: Text
